@@ -20,4 +20,7 @@ This script is sourced by all other simulation and data analysis scripts, and so
 This script generates the estimates of the regression parameters in a "result/XXX" subfolder, where the output folder is automatically created.
 The result files are needed to produce the figures and tables in the manuscript.
 
++ **sample-simulation-cv**: Conducts simulations where the value of tuning parameter is selected based on the mean RTMSPE calculated through 2-fold cross-validation. 
+This script generates the estimates of the regression parameters in a "result/XXX" subfolder, where the output folder is automatically created.
+The result files are needed to produce the figures and tables in the manuscript.
 
